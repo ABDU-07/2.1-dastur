@@ -46,7 +46,7 @@ while 1:
             print("2- Tugatish: ")
             b = int(input())
             if b == 1:
-                print()
+                print() 
             elif b == 2:
                 exit()
         if b == 1:
