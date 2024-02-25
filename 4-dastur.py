@@ -5,6 +5,6 @@ for i in range(0,100):
 a = r.choice(list1)
 for i in range(0,100):
     if list1[i] == a:
-        exit()
+        exit() 
     elif list1[i] % 2 == 0:
         print(list1[i],end=' ')

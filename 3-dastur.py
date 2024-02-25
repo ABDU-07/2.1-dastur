@@ -7,7 +7,7 @@ if c == 4:
 elif c == 3:
         d = a / 100
         a = a % 100
-        d = int(d)
+        d = int(d) 
         if d == 1:
             print("bir yuz ",end="")
         elif d == 2:

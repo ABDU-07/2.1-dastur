@@ -20,7 +20,7 @@ while 1:
             a = 'UZcart'
             break
         else:
-            print("xato")
+            print("xato") 
 v = input('kod: ')
 karta = {}
 karta[k] = v
